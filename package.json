@@ -1,6 +1,6 @@
 {
   "homepage": "http://rishav-dahal.github.io/movie-info",
-  "name": "day_1",
+  "name": "movie_info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
